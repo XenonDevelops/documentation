@@ -1,0 +1,7 @@
+{
+  "name": "project name",
+  "version": "1.0.0",
+  "description": "description to app.",
+  "title": "title that will be in html",
+  "url" : "if you have a url in production you can put it here"
+}
